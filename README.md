@@ -35,7 +35,7 @@ I'm a **Computer Science student at SETU** specializing in **IoT (Internet of Th
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/joey-wright-87140a275/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joey-wright-87140a275/)
 
 ---
 
