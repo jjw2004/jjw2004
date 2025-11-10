@@ -8,7 +8,7 @@ I'm a **Computer Science student at SETU** specializing in **IoT (Internet of Th
 ## 🧭 About Me
 - 🎓 3rd-year Computer Science (IoT) student at **South East Technological University (SETU)**
 - 💡 Interested in **IoT technologies**, **embedded systems**, and **Python development**
-- 🌱 Currently learning more about **IoT communication protocols** and **Camera Technoliges**
+- 🌱 Currently learning more about **IoT communication protocols** and **Camera technologies**
 
 ---
 
