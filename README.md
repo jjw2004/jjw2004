@@ -14,7 +14,7 @@ I'm a **Computer Science student at SETU** specializing in **IoT (Internet of Th
 
 ## 🛠️ Tech Stack
 **Languages:**  
-`Python` • `C#` • `Java` • `JavaScript` 
+`Python` • `C` • `Java` • `JavaScript` • `C++`
 
 **IoT & Hardware:**  
 `Arduino` • `Raspberry Pi` • `MQTT` • `ESP32`
